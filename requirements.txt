@@ -1,0 +1,8 @@
+pandas
+fastapi[all]
+uvicorn
+streamlit
+python-dotenv
+google-genai
+pydantic
+requests

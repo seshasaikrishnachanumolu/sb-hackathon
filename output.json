@@ -1,0 +1,8 @@
+[
+  {
+    "key": "response",
+    "label": "message",
+    "description": "AI response",
+    "types": ["json","message","string","object"]
+  }
+]
